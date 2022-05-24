@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de projeto sobre Git/Github do Bootcamp TQI
+# Desafio Git/Github DIO bootcamp TQI
+Repositório criado para o desafio Git/Github.
